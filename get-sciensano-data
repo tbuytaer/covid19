@@ -1,0 +1,10 @@
+#!/bin/bash
+# Get the data from Sciensano and convert to csv files.
+
+cd sciensano-data
+rm COVID19BE.xlsx
+wget -q https://epistat.sciensano.be/Data/COVID19BE.xlsx
+
+for i in 1 2 3 4 5 6; do
+    xlsx2csv -s $i COVID19BE.xlsx COVID19BE-$i.csv
+done
