@@ -1,3 +1,25 @@
+# COVID-19 in Belgium, US and worldwide
+
+## Belgium
+1. Run *get-sciensano-data* which will download the latest data for Belgium and create a CSV file for every tab.
+2. Run the *Mathematica* notebooks.
+
+![Graphs for Belgium](./SIR-Belgium-2020-05-24.png)
+
+## USA
+1. Run *get-johns-hopkins-data*	to download the latest data for all countries.
+2. Run the *Mathematica* notebooks.
+
+![Map of Re in US states](./SIR-US-map-2020-05-23.png)
+
+## Worldwide
+1. Run *get-johns-hopkins-data*	to download the latest data for all countries.
+2. Run the *Mathematica* notebooks.
+
+![Map of Re worldwide](./SIR-World-map-2020-05-24.png)
+
+---
+
 # COVID-19 in Belgium
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glouppe/covid19be/master)

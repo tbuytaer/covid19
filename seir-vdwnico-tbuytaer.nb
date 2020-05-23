@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    176657,       4017]
-NotebookOptionsPosition[    175728,       3984]
-NotebookOutlinePosition[    176055,       3999]
-CellTagsIndexPosition[    176012,       3996]
+NotebookDataLength[    176713,       4018]
+NotebookOptionsPosition[    175777,       3985]
+NotebookOutlinePosition[    176111,       4000]
+CellTagsIndexPosition[    176068,       3997]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3974,16 +3974,17 @@ Cell[BoxData[
    RowBox[{
     RowBox[{
      RowBox[{"NotebookDirectory", "[", "]"}], "<>", 
-     "\"\</results/SEIR-belgium-23may.pdf\>\""}], ",", " ", "final", ",", " ", 
+     "\"\</results/SEIR-belgium-23may.png\>\""}], ",", " ", "final", ",", " ", 
     RowBox[{"ImageResolution", " ", "->", " ", "600"}]}], "]"}], 
   ";"}]], "Code",
  CellChangeTimes->{{3.7991376816315937`*^9, 3.7991376918444777`*^9}, {
   3.799140093235158*^9, 3.799140109892144*^9}, {3.799222768240337*^9, 
   3.799222805661673*^9}, {3.799225956113626*^9, 3.799225995620358*^9}, {
-  3.799226066797244*^9, 3.799226067553952*^9}}]
+  3.799226066797244*^9, 3.799226067553952*^9}, {3.799257774334477*^9, 
+  3.799257775062744*^9}}]
 },
 WindowSize->{958, 1030},
-WindowMargins->{{1, Automatic}, {25, 25}},
+WindowMargins->{{2, Automatic}, {Automatic, 25}},
 FrontEndVersion->"11.0 for Linux x86 (64-bit) (July 28, 2016)",
 StyleDefinitions->"Default.nb"
 ]
@@ -4018,7 +4019,7 @@ Cell[91554, 2343, 6980, 172, 469, "Code"],
 Cell[98537, 2517, 38306, 724, 597, "Output"],
 Cell[136846, 3243, 38309, 724, 597, "Output"]
 }, Open  ]],
-Cell[175170, 3970, 554, 12, 52, "Code"]
+Cell[175170, 3970, 603, 13, 52, "Code"]
 }
 ]
 *)
