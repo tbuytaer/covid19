@@ -2,21 +2,23 @@
 
 ## Belgium
 1. Run *get-sciensano-data* which will download the latest data for Belgium and create a CSV file for every tab.
-2. Run the *Mathematica* notebooks.
+2. Run the *Mathematica* notebook ***SEIR-Belgium.nb***.
 
-![Graphs for Belgium](./SIR-Belgium-2020-05-24.png)
+![Graph for Belgium](./SEIR-belgium-2020-05-24.png "Graph for Belgium")
 
 ## USA
 1. Run *get-johns-hopkins-data*	to download the latest data for all countries.
-2. Run the *Mathematica* notebooks.
+2. Run the *Mathematica* notebook ***SIR-US.nb***.
 
-![Map of Re in US states](./SIR-US-map-2020-05-23.png)
+![Graph for state](./SIR-US-Oregon-2020-05-23.png  "Graph for a US state")
+![Map of Re in US states](./SIR-US-map-2020-05-23.png "Map of Re in US states")
 
 ## Worldwide
 1. Run *get-johns-hopkins-data*	to download the latest data for all countries.
-2. Run the *Mathematica* notebooks.
+2. Run the *Mathematica* notebook ***SIR-World.nb***
 
-![Map of Re worldwide](./SIR-World-map-2020-05-24.png)
+![Graph for Country](./SIR-Belgium-2020-05-24.png "Graph for a country") 
+![Map of Re worldwide](./SIR-World-map-2020-05-24.png "Map of Re worldwide")
 
 ---
 
